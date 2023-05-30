@@ -7,12 +7,11 @@ header {
     font-family: 'Crushed', cursive;
 }
 header ul li {
-   /* margin-left: 20px;*/
+    margin-left: 50px;
     font-size: x-large;
 }
 
 /*¡¡¡¡¡¡¡¡¡¡     FOOTER     !!!!!!!!!!!!*/
-
 
 .pie {
     font-family: 'Crushed', cursive;
@@ -21,8 +20,6 @@ header ul li {
     text-align: center;
     margin-top: 100px;
 }
-
-
 /*¡¡¡¡¡¡¡¡¡     TITULOS     !!!!!!!!!!!*/
 
 .titulo {
